@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">KitJoin</string>
+
+    <string name="AppName">KitJoin</string>
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- INFORMATION -->
+    <string name="StartMessaging">Start Messaging</string>
+    <string name="kitjoinTitle">KitJoin</string>
+    <string name="secureTitle">Secure</string>
+    <string name="cloudTitle">Cloud-Based</string>
+    <string name="secureMessage"><![CDATA[<b>KitJoin</b>]]> keeps your messages safe<![CDATA[<br/>]]>from hacker attacks.</string>
+    <string name="cloudMessage"><![CDATA[<b>KitJoin</b>]]> lets you access your messages<![CDATA[<br/>]]>from multiple devices.</string>
+    <string name="infoMessage">The world\'s <![CDATA[<b>fastest</b>]]> messaging app.<![CDATA[<br/>]]>It is <![CDATA[<b>free</b>]]> and <![CDATA[<b>secure</b>]]>.</string>
+</resources>

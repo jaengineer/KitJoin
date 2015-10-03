@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KitJoin</string>
+
+    <string name="AppName">KitJoin</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- INFORMATION -->
+    <string name="StartMessaging">Empieza a conversar</string>
+    <string name="kitjoinTitle">KitJoin</string>
+    <string name="secureTitle">Segura</string>
+    <string name="cloudTitle">Basada en la nube</string>
+    <string name="secureMessage"><![CDATA[<b>KitJoin</b>]]> mantiene tus mensajes<![CDATA[<br/>]]>a salvo del ataque de hackers.</string>
+    <string name="cloudMessage"><![CDATA[<b>KitJoin</b>]]> te permite acceder a tus<![CDATA[<br/>]]>mensajes desde múltiples dispositivos.</string>
+    <string name="infoMessage">La aplicación de mensajería más<![CDATA[<br/><b>veloz</b>]]> del mundo. Es <![CDATA[<b>gratis</b>]]> y <![CDATA[<b>segura</b>]]>..</string>
+</resources>
