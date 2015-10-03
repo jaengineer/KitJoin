@@ -34,7 +34,7 @@ import java.util.Map;
  */
 public class LoginActivity extends BaseFragment{
 
-    private static String TAG = "LOGIN_ACTIVITY";
+    private static String TAG = "LOGIN";
 
     private int currentViewNum = 0;
     private SlideView[] views = new SlideView[5];
