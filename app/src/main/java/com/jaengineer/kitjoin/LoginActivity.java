@@ -34,7 +34,7 @@ import java.util.Map;
  */
 public class LoginActivity extends BaseFragment{
 
-    private static String TAG = "LOGIN_ACTIVITY";
+    private static String TAG = "LOGIN";
 
     private int currentViewNum = 0;
     private SlideView[] views = new SlideView[5];
@@ -43,7 +43,7 @@ public class LoginActivity extends BaseFragment{
     @Override
     public View createView(Context context) {
 
-        Log.d(TAG, "TEXT: " + TAG + " ONCREATE");
+        Log.d(TAG, "TEXT: " + TAG + " ON_CREATE");
 
         actionBar.setTitle(LocaleController.getString("AppName", R.string.AppName));
 
