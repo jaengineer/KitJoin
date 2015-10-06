@@ -43,7 +43,7 @@ public class LoginActivity extends BaseFragment{
     @Override
     public View createView(Context context) {
 
-        Log.d(TAG, "TEXT: " + TAG + " ONCREATE");
+        Log.d(TAG, "TEXT: " + TAG + " ON_CREATE");
 
         actionBar.setTitle(LocaleController.getString("AppName", R.string.AppName));
 
